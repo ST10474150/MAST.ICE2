@@ -106,7 +106,7 @@ const styles = StyleSheet.create({
     marginBottom: 10,
   },
   heading: {
-    fontSize: 28,
+    fontSize: 32,
     fontWeight: 'bold',
     color: '#FFFFFF',
     marginBottom: 20,
@@ -116,7 +116,7 @@ const styles = StyleSheet.create({
     height: 120,
     borderRadius: 60,
     marginBottom: 20,
-    backgroundColor: '#39D353',
+    backgroundColor: '#69E879',
   },
   description: {
     color: '#D5E8D8',
